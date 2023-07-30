@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bed Curtain and Vital Signs Monitor
+* source:	https://sketchfab.com/3d-models/bed-curtain-and-vital-signs-monitor-295ed50eeaa249e8bbeed7b305d3da71
+* author:	Ethan Cragun (https://sketchfab.com/EDIIIC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bed Curtain and Vital Signs Monitor" (https://sketchfab.com/3d-models/bed-curtain-and-vital-signs-monitor-295ed50eeaa249e8bbeed7b305d3da71) by Ethan Cragun (https://sketchfab.com/EDIIIC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

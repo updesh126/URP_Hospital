@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.urp_hospital.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\UnityProject\\URP_Hospital\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "URP_Hospital [Testing]"
+        }
+      }
+    }
+  ]
+}

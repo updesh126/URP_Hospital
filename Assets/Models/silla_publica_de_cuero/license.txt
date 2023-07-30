@@ -1,0 +1,11 @@
+Model Information:
+* title:	silla publica de cuero
+* source:	https://sketchfab.com/3d-models/silla-publica-de-cuero-4ae7c7c3029047a68935347a514dc36b
+* author:	e-restrepo1114 (https://sketchfab.com/EmanuelRestrepoVelez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "silla publica de cuero" (https://sketchfab.com/3d-models/silla-publica-de-cuero-4ae7c7c3029047a68935347a514dc36b) by e-restrepo1114 (https://sketchfab.com/EmanuelRestrepoVelez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
